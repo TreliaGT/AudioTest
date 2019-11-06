@@ -1,0 +1,12 @@
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\bin\Debug\netstandard2.0\AudioTest.deps.json
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\bin\Debug\netstandard2.0\AudioTest.dll
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\obj\Debug\netstandard2.0\AudioTest.csprojAssemblyReference.cache
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\obj\Debug\netstandard2.0\AudioTest.csproj.CoreCompileInputs.cache
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\obj\Debug\netstandard2.0\AudioTest.AssemblyInfoInputs.cache
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\obj\Debug\netstandard2.0\AudioTest.AssemblyInfo.cs
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\bin\Debug\netstandard2.0\AudioTest.pdb
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\obj\Debug\netstandard2.0\AudioTest.dll
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\obj\Debug\netstandard2.0\AudioTest.pdb
+C:\Users\Trelia\source\repos\AudioTest\AudioTest\AudioTest\obj\Debug\netstandard2.0\XamlC.stamp
