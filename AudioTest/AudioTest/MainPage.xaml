@@ -13,6 +13,7 @@
            VerticalOptions="CenterAndExpand" />
         <Button Text="Play" Clicked="PlayClicked"/>
         <Button Text="Stop" Clicked="StopClicked"/>
+        <Button Text="Pause" Clicked="PauseClicked"/>
     </StackLayout>
 
 </ContentPage>
