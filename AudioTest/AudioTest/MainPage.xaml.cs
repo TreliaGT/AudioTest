@@ -50,11 +50,6 @@ namespace AudioTest
             
         }
 
-        Stream GetStreamFromFile(string filename)
-        {
-            var assembly = typeof(App).GetTypeInfo().Assembly;
-            var stream = assembly.GetManifestResourceStream("AudioTest." + filename);
-            return stream;
-        }
+      
     }
 }
